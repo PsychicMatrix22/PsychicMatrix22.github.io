@@ -30,7 +30,7 @@
 #main_avatar_room #main-user-list-room #avatar-list li.mod .user-role,
 #main_avatar_room #main-user-list-room #avatar-list li.mod .username
 {
-    color: #33641f;
+    color: #24b00e;
 }
 
 #chat .chat-container .chat-messages .chat-main li.vip .user-role,
@@ -62,8 +62,14 @@
 #main_avatar_room #main-user-list-room #avatar-list li.userid-55ffae6a1564a403003f5132 .user-role,
 #main_avatar_room #main-user-list-room #avatar-list li.userid-55ffae6a1564a403003f5132 .username
 {
-    color: #caca00;
+    color: #7f1383;
 }
+
+#chat .chat-container .chat-messages .chat-main li.currentDJ .user-role,
+#chat .chat-container .chat-messages .chat-main li.currentDJ .username,
+#main_avatar_room #main-user-list-room #avatar-list li.currentDJ .user-role,
+#main_avatar_room #main-user-list-room #avatar-list li.currentDJ.username
+{
 
 .admin .username:after
 {
