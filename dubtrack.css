@@ -131,3 +131,6 @@ section#main-section section#main-room.dubtrack-section {
 .chat-container{
     margin-right:0;
 }
+#main_player .player_header{
+    opacity:0;
+}
