@@ -68,7 +68,7 @@
 #chat .chat-container .chat-messages .chat-main li.currentDJ .user-role,
 #chat .chat-container .chat-messages .chat-main li.currentDJ .username,
 #main_avatar_room #main-user-list-room #avatar-list li.currentDJ .user-role,
-#main_avatar_room #main-user-list-room #avatar-list li.currentDJ.username 
+#main_avatar_room #main-user-list-room #avatar-list li.currentDJ .username 
 {
     color: red;
 }
