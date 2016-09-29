@@ -30,7 +30,7 @@
 #main_avatar_room #main-user-list-room #avatar-list li.mod .user-role,
 #main_avatar_room #main-user-list-room #avatar-list li.mod .username
 {
-    color: Red;
+    color: #33641f;
 }
 
 #chat .chat-container .chat-messages .chat-main li.vip .user-role,
