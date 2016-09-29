@@ -123,6 +123,10 @@
     border-bottom: darkturquoise 1px solid !important;
 }
 
-#player {
+#main_player {
     margin-left:0;
+}
+
+#chat-main{
+    margin-right:0;
 }
