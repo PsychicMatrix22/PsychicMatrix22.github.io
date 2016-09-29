@@ -123,7 +123,7 @@
     border-bottom: darkturquoise 1px solid !important;
 }
 
-.main-page-container #main-section #main_room {
+section.main-page-container section#main-section section#main_room {
     margin-left:0;
     max-width:inherit;
 }
