@@ -1,3 +1,5 @@
+@import url("https://hebgbs.github.io/rainbowstuff.css");
+
 /* name colours */
 #chat .chat-container .chat-messages .chat-main li.creator .user-role,
 #chat .chat-container .chat-messages .chat-main li.creator .username,
@@ -144,3 +146,4 @@ video.video-stream{
 #main-room .left_section{
     margin-top:50px;
 }
+
