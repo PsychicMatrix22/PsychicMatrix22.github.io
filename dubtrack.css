@@ -122,3 +122,7 @@
     border-top: darkturquoise 1px solid !important;
     border-bottom: darkturquoise 1px solid !important;
 }
+
+#player {
+    margin-left:0;
+}
