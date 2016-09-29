@@ -123,8 +123,9 @@
     border-bottom: darkturquoise 1px solid !important;
 }
 
-section#main_player {
+section#main_room {
     margin-left:0;
+    max-width:inherit;
 }
 
 .chat-container{
