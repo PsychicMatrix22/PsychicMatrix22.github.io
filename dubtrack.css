@@ -125,12 +125,12 @@
 
 section#main-section section#main-room.dubtrack-section {
     margin-left:0;
-    max-width:100rem;
+    max-width:inherit;
 }
 
 video.video-stream{
-    width : 40vw;
-    height : 40vh; 
+    width : 40%;
+
 }
 
 .chat-container{
