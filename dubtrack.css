@@ -157,7 +157,7 @@ video.video-stream{
     margin-right:0;
 }
 
-section.right_section{
+section.left_section{
     margin-right:0;   
 }
 
@@ -166,4 +166,5 @@ section.right_section{
 }
 #main-room .left_section{
     margin-top:50px;
+    width: 80%;
 }
