@@ -1,6 +1,7 @@
 @import url("https://hebgbs.github.io/rainbowstuff.css");
 @import url("https://PsychicMatrix22.github.io/VideoColors.css");
 @import url("https://PsychicMatrix22.github.io/dubtrackNameColors.css");
+@import url("https://PsychicMatrix22.github.io/chatAndVideo.css");
 
 /* Emote sizes */
 #chat .emoji {
@@ -22,29 +23,4 @@
     border-bottom: darkturquoise 1px solid !important;
 }
 
-    margin-left:30px;
-    margin-top:0;
-    max-width:80%;
-section#main-section section#main-room.dubtrack-section {
-}
 
-video.video-stream{
-    width : 40%;
-
-}
-
-.chat-container{
-    margin-right:0;
-}
-
-section.left_section{
-    margin-right:0;   
-}
-
-#main-room .left_section .main-player-wrapper{
-    display: initial;
-}
-#main-room .left_section{
-    margin-top:50px;
-    width: 80%;
-}
