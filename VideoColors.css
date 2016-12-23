@@ -1,6 +1,6 @@
 #main_player .player_header span.active {
     background: blue;
-    color: black;
+    color: white;
 }
 
 #main_player .player_header span {
