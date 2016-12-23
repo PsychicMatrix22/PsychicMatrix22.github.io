@@ -1,0 +1,27 @@
+section#main-section section#main-room.dubtrack-section {
+    margin-left:30px;
+    margin-top:0;
+    max-width:80%;
+}
+
+video.video-stream{
+    width : 40%;
+
+}
+
+.chat-container{
+    margin-right:0;
+}
+
+section.left_section{
+    margin-right:0;   
+}
+
+#main-room .left_section .main-player-wrapper{
+    display: initial;
+}
+
+#main-room .left_section{
+    margin-top:50px;
+    width: 80%;
+}
