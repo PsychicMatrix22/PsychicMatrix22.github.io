@@ -7,3 +7,12 @@
     color: blue;
     background: white;
 }
+
+#main_player .play-song-link-container .play-song-link, #main_player .play-song-link-container .play-song-link-browser {
+    background: white;
+    color: blue;
+}
+
+#main_player .play-song-link-container .play-song-link-browser i, #main_player .play-song-link-container .play-song-link i {
+    color: blue;
+}
