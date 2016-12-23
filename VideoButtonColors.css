@@ -1,0 +1,10 @@
+#main_player .player_header span.active {
+    background: blue;
+    color: black;
+}
+
+#main_player .player_header span {
+    color: blue;
+    background: white;
+  
+}
