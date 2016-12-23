@@ -16,3 +16,11 @@
 #main_player .play-song-link-container .play-song-link-browser i, #main_player .play-song-link-container .play-song-link i {
     color: blue;
 }
+
+#main_player .player_sharing span {
+    color: blue;
+}
+
+#main_player {
+    background: white;
+}
