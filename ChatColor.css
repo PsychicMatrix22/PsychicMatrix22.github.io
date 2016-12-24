@@ -75,11 +75,11 @@ a {
 }
 
 div{
-    color:black!important;   
+    color:grey!important;   
 }
 
 #browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li.selected{
-    color:black;
+    color:white;
     background:blue;
 }
 
