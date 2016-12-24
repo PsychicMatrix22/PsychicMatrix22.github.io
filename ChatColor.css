@@ -15,7 +15,10 @@
 }
 
 #chat .chat-options .chat-option-buttons span.active i,
-#chat .chat-options .chat-option-buttons span.active {
+#chat .chat-options .chat-option-buttons span.active,
+#chat .chat_tools span.icon-people i.room-guest-counter,
+#chat .chat_tools span.icon-people i
+{
     color: blue!important;
 }
 
@@ -62,10 +65,15 @@
 #chat .chat-container .chat-messages .chat-main li.chat-system-loading, 
 #chat .chat-container .chat-messages .chat-main li.chat-welcome-message, 
 #chat .chat-container .chat-messages .chat-main li.system, 
-#chat .chat-container .chat-messages .chat-main li.system-error{
+#chat .chat-container .chat-messages .chat-main li.system-error,
+{
     color:blue;
 }
 
-a, div {
+a {
     color: blue!important;
+}
+
+div{
+    color:black!important;   
 }
