@@ -82,3 +82,7 @@ div{
     color:black;
     background:blue;
 }
+
+#room-info-display .room-info-display-wrapper .description a.autolink, #room-info-display .room-info-display-wrapper .description span.username-handle {
+    color: blue;
+}
