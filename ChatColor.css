@@ -40,10 +40,13 @@
     border-bottom: 1px solid black;
 }
 
-#main-room .right_section {
+#main-room .right_section{
     background: rgba(255,255,255,.7);
 }
 
+#browser .browser-content .browser-content-main .nano .content-videos #results_video_api .queue-item{
+    background: wh
+}
 #chat .chat_tools span:after {
     border: 1px solid blue;
 }
@@ -87,6 +90,12 @@ div{
     color: blue;
 }
 
-a:active, a:focus, a:hover {
+a:active, a:focus, a:hover,
+#mods-controllers .mods-controllers-main-wrapper .mod-controllers-headers a.active {
     color: black;
+}
+
+#browser .browser-content .browser-content-main .nano .content-videos #results_video_api .queue-item .actions a,
+#browser .browser-content .browser-content-main .nano .content-videos .queue_info .right a.text-button{
+    background:white;
 }
