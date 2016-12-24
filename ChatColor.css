@@ -11,7 +11,7 @@
 #chat .chat_tools span:hover,
 #chat .chat-options .chat-option-buttons span.active:hover
 {
-    color: black;
+    color: black!important;
 }
 
 #chat .chat-options .chat-option-buttons span.active i,
