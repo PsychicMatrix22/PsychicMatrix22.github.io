@@ -1,3 +1,7 @@
+#chat .chat-container .chat-messages .chat-main li .activity-row .username {
+    color: black;
+}
+
 #chat .chat-container .chat-messages .chat-main li.creator .user-role,
 #chat .chat-container .chat-messages .chat-main li.creator .username,
 #main_avatar_room #main-user-list-room #avatar-list li.creator .user-role,
