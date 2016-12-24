@@ -73,7 +73,12 @@
     color:blue;
 }
 
-a {
+#mods-controllers .mods-controllers-main-wrapper .mod-controllers-headers a {
+    display: inline-block;
+    padding: 0 16px;
+    padding: 0 1rem;
+    text-transform: uppercase;
+    font-weight: 700;
     color: blue;
 }
 
