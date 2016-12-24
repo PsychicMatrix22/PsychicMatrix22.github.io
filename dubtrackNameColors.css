@@ -7,7 +7,7 @@
 #main_avatar_room #main-user-list-room #avatar-list li.creator .user-role,
 #main_avatar_room #main-user-list-room #avatar-list li.creator .username
 {
-    color: #FF38CB;
+    color: #da0339;
 }
 
 #chat .chat-container .chat-messages .chat-main li.co-owner .user-role,
@@ -15,7 +15,7 @@
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner .user-role,
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner .username
 {
-    color: #FF007F;
+    color: #11afb3;
 }
 
 #chat .chat-container .chat-messages .chat-main li.manager .user-role,
