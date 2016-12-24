@@ -30,11 +30,6 @@
     border-bottom: 1px solid black;
 }
 
-@media screen and (min-width: 72em)
-#main-room .right_section {
-    background: rgba(255, 255, 255, 0.85);
-}
-
 #main-room .right_section {
     background: rgba(255,255,255,.7);
 }
@@ -43,11 +38,9 @@
     border: 1px solid blue;
 }
 
-#chat .chat_tools span {
-    color: blue;
-}
-
-.icon-chat:before, icon-people:before, 
+.icon-chat:before, 
+.icon-people:before,
+.icon--chatsettings:before,
 #chat .chat_tools span, 
 #main-room.display-users-rooms #chat .display-chat, 
 #main-room.display-users-rooms #chat .display-chat-settings,
