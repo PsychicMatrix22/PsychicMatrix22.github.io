@@ -35,6 +35,10 @@
     background: rgba(255, 255, 255, 0.85);
 }
 
+#main-room .right_section {
+    background: rgba(255,255,255,.7);
+}
+
 #chat .chat_tools span:after {
     border: 1px solid blue;
 }
@@ -42,3 +46,14 @@
 #chat .chat_tools span {
     color: blue;
 }
+
+.icon-chat:before, icon-people:before, 
+#chat .chat_tools span, 
+#main-room.display-users-rooms #chat .display-chat, 
+#main-room.display-users-rooms #chat .display-chat-settings,
+#main-room.display-users-rooms #chat .display-chat, #main-room.display-users-rooms #chat .display-chat-settings
+{
+    color: blue;
+}
+
+
