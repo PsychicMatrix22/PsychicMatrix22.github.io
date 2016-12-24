@@ -18,10 +18,10 @@
 }
 
 #chat .chat-main li[class*='system'] {
-    color: darkturquoise !important;
+    color: blue !important;
     text-align: center;
-    border-top: darkturquoise 1px solid !important;
-    border-bottom: darkturquoise 1px solid !important;
+    border-top: blue 1px solid !important;
+    border-bottom: blue 1px solid !important;
 }
 
 
