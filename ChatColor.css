@@ -16,7 +16,7 @@
 
 #chat .chat-options .chat-option-buttons span.active i,
 #chat .chat-options .chat-option-buttons span.active {
-    color: blue;
+    color: blue!important;
 }
 
 #main_avatar_room .avatar_tools input {
