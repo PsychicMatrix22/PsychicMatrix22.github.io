@@ -56,4 +56,13 @@
     color: blue;
 }
 
+#chat .chat-container .chat-messages .chat-main li.chat-system-grabbed, 
+#chat .chat-container .chat-messages .chat-main li.chat-system-joined, 
+#chat .chat-container .chat-messages .chat-main li.chat-system-left, 
+#chat .chat-container .chat-messages .chat-main li.chat-system-loading, 
+#chat .chat-container .chat-messages .chat-main li.chat-welcome-message, 
+#chat .chat-container .chat-messages .chat-main li.system, 
+#chat .chat-container .chat-messages .chat-main li.system-error{
+    color:blue;
+}
 
