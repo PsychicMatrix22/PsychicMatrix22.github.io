@@ -8,11 +8,14 @@
     border: 1px solid blue;
 }
 
-#chat .chat_tools span:hover {
+#chat .chat_tools span:hover,
+#chat .chat-options .chat-option-buttons span.active:hover
+{
     color: black;
 }
 
-#chat .chat-options .chat-option-buttons span.active i {
+#chat .chat-options .chat-option-buttons span.active i,
+#chat .chat-options .chat-option-buttons span.active {
     color: blue;
 }
 
