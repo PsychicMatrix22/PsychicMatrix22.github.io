@@ -99,3 +99,15 @@ a:active, a:focus, a:hover,
 #browser .browser-content .browser-content-main .nano .content-videos .queue_info .right a.text-button{
     background:white;
 }
+
+#chat .chat-container .chat-messages .chat-main li.currentDJ .username:before {
+    color: blue;
+}
+
+#chat .chat-container .chat-messages .chat-main li .activity-row .text p {
+    color: black;
+}
+
+#chat .pusher-chat-widget-input #chat-height-calculator, #chat .pusher-chat-widget-input #chat-txt-message {
+    color: black;
+}
