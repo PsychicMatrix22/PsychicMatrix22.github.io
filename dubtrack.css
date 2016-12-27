@@ -27,7 +27,7 @@
 
 #player-controller .left ul li.infoContainer .infoContainerInner,
 #header-global {
-   background: black;
+   background: linear-gradient(to right, darkblue, darkblue, black, darkblue, darkblue);
 }
 
 .icon-menu:before, 
