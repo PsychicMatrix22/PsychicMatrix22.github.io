@@ -6,9 +6,10 @@
 .icon-chevron:before,
 #header-global .header-right-navigation .user-info,
 #header-global .header-right-navigation .user-messages,
+#player-controller .left ul li.infoContainer .infoContainerInner .currentSong,
 #header-global,
 #player-controller .left ul li.infoContainer .infoContainerInner .currentTime,
-#header-global .header-left-navigation a
+#header-global .header-left-navigation a 
  {
     color: white;
 }
