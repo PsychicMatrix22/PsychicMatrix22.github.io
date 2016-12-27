@@ -21,8 +21,24 @@
 #browser .browser-content .browser-content-main .nano .content-videos .playlist_info .right a, 
 #browser .browser-content .browser-content-main .nano .content-videos .queue_info .right a{
     background:none;
+    color:lightgreen;
 }
 
 .icon-heart:before{
   color:none;
+}
+
+#browser .browser-content .browser-content-main .nano .content-videos #results_video_api .history-item .description, 
+#browser .browser-content .browser-content-main .nano .content-videos #results_video_api .playlist-item .description, 
+#browser .browser-content .browser-content-main .nano .content-videos #results_video_api .queue-item .description, 
+#browser .browser-content .browser-content-main .nano .content-videos #results_video_api .search-item .description
+{
+  color:lightgreen
+}
+
+#browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li.selected,
+#browser .browser-content .browser-content-header .close-browser
+{
+    color:white;
+    background:lightgreen;
 }
