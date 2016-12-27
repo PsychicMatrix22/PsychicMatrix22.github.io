@@ -66,20 +66,17 @@
     background:#0d0dd3;
 }
 
-
-
 #chat .chat-container .chat-messages .chat-main li .activity-row .text p,
 #chat .pusher-chat-widget-input #chat-height-calculator, #chat .pusher-chat-widget-input #chat-txt-message 
  {
     color: black;
 }
 
-#browser .browser-content .browser-content-main .nano .content-videos #results_video_api .queue-item .actions a,
-#browser .browser-content .browser-content-main .nano .content-videos .queue_info .right a.text-button{
-    background:white;
-}
-
 #main_avatar_room #main-user-list-room #avatar-list li.currentDJ .dubs:before{
        color:darkorange
 }
 
+
+.icon-heart:before{
+  color:none;
+}
