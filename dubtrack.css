@@ -3,6 +3,7 @@
 @import url("https://PsychicMatrix22.github.io/dubtrackNameColors.css");
 @import url("https://PsychicMatrix22.github.io/chatAndVideo.css");
 @import url("https://PsychicMatrix22.github.io/ChatColor.css");
+@import url("https://PsychicMatrix22.github.io/HeaderFooterColors.css");
 
 /* Emote sizes */
 #chat .emoji {
@@ -22,43 +23,4 @@
     text-align: center;
     border-top: blue 1px solid !important;
     border-bottom: blue 1px solid !important;
-}
-
-
-#player-controller .left ul li.infoContainer .infoContainerInner,
-#header-global {
-   background: linear-gradient(to right, darkblue, darkblue, black, darkblue, darkblue);
-}
-
-.icon-menu:before, 
-.icon-chevron:before,
-#header-global .header-right-navigation .user-info,
-#header-global .header-right-navigation .user-messages,
-#player-controller .left ul li.infoContainer .infoContainerInner span,
-#header-global {
-    color: white;
-}
-
-#player-controller .right ul li .add-to-playlist-button:hover, 
-#player-controller .right ul li .add-to-playlist-button:hover span, 
-#player-controller .right ul li .dubdown:hover, 
-#player-controller .right ul li .dubdown:hover span, 
-#player-controller .right ul li .dubup:hover, 
-#player-controller .right ul li .dubup:hover span {
-    color: black;
-}
-
-#player-controller .right ul li .add-to-playlist-button.grabbed, 
-#player-controller .right ul li .add-to-playlist-button.voted, 
-#player-controller .right ul li .dubdown.grabbed, 
-#player-controller .right ul li .dubdown.voted {
-    background: red;
-}
-
-#player-controller .right {
-    background: white;
-}
-
-#header-global .header-left-navigation a {
-    color: white;
 }
