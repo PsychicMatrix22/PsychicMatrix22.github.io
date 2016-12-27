@@ -24,3 +24,18 @@
     border-top: blue 1px solid !important;
     border-bottom: blue 1px solid !important;
 }
+
+a{
+    color:blue
+}
+
+a:active, a:focus, a:hover,
+#mods-controllers .mods-controllers-main-wrapper .mod-controllers-headers a.active
+{
+    color: black;
+}
+
+div,
+ #mods-controllers .mods-controllers-main-wrapper .mods-controllers-wrapper .mods-controllers-commands-list .chat-command-list li .actions{
+    color:grey;
+}
