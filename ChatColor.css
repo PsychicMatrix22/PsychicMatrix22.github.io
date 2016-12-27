@@ -61,11 +61,6 @@
     color: #0d0dd3;
 }
 
-#browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li.selected{
-    color:white;
-    background:#0d0dd3;
-}
-
 #chat .chat-container .chat-messages .chat-main li .activity-row .text p,
 #chat .pusher-chat-widget-input #chat-height-calculator, #chat .pusher-chat-widget-input #chat-txt-message 
  {
