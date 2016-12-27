@@ -58,3 +58,8 @@
 #player-controller .right {
     background: white;
 }
+
+@media screen and (min-width: 48em)
+#header-global .header-left-navigation a {
+    color: white;
+}
