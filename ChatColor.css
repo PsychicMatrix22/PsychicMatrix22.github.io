@@ -3,37 +3,23 @@
     color: black;
 }
 
-#chat .chat-options .chat-option-buttons span:hover {
-    color: blue;
-    border: 1px solid blue;
-}
-
-#chat .chat_tools span:hover,
-#chat .chat-options .chat-option-buttons span.active:hover
-{
-    color: black!important;
-}
-
+#chat .chat-options .chat-option-buttons span.active:hover,
 #chat .chat-options .chat-option-buttons span.active i,
-#chat .chat-options .chat-option-buttons span.active,
+#chat .chat-options .chat-option-buttons span.active
+{
+    color:#0d0dd3!important;
+}
+
+
 #chat .chat_tools span.icon-people i.room-guest-counter,
 #chat .chat_tools span.icon-people i
 {
-    color: blue!important;
+    color: #0d0dd3;
 }
 
-#main_avatar_room .avatar_tools input {
-    border-bottom: 1px solid blue;
-}
-
-#chat .chat-options .chat-option-buttons span.active {
-    color: blue;
-    border: 1px solid blue;
-}
-
-#chat .chat-options .chat-option-buttons span.active:hover {
-    color: blue;
-    border: 1px solid blue;
+#main_avatar_room .avatar_tools input,
+ {
+    border-bottom: 1px solid #0d0dd3;
 }
 
 #chat .chat_tools {
@@ -44,11 +30,11 @@
     background: rgba(255,255,255,.7);
 }
 
-#browser .browser-content .browser-content-main .nano .content-videos #results_video_api .queue-item{
-    background: wh
-}
-#chat .chat_tools span:after {
-    border: 1px solid blue;
+#chat .chat_tools span:after,
+#chat .chat-options .chat-option-buttons span:hover,
+#chat .chat-options .chat-option-buttons span.active  
+{
+    border: 1px solid #0d0dd3;
 }
 
 .icon-chat:before, 
@@ -57,11 +43,7 @@
 #chat .chat_tools span, 
 #main-room.display-users-rooms #chat .display-chat, 
 #main-room.display-users-rooms #chat .display-chat-settings,
-#main-room.display-users-rooms #chat .display-chat, #main-room.display-users-rooms #chat .display-chat-settings
-{
-    color: blue;
-}
-
+#main-room.display-users-rooms #chat .display-chat, #main-room.display-users-rooms #chat .display-chat-settings,
 #chat .chat-container .chat-messages .chat-main li.chat-system-grabbed, 
 #chat .chat-container .chat-messages .chat-main li.chat-system-joined, 
 #chat .chat-container .chat-messages .chat-main li.chat-system-left, 
@@ -69,34 +51,26 @@
 #chat .chat-container .chat-messages .chat-main li.chat-welcome-message, 
 #chat .chat-container .chat-messages .chat-main li.system, 
 #chat .chat-container .chat-messages .chat-main li.system-error,
+#mods-controllers .mods-controllers-main-wrapper .mod-controllers-headers a,
+#room-info-display .room-info-display-wrapper .description a.autolink,
+#room-info-display .room-info-display-wrapper .description span.username-handle,
+#chat .chat-container .chat-messages .chat-main li.currentDJ .username:before,
+#chat .chat-options .chat-option-buttons span:hover,
+#chat .chat-options .chat-option-buttons span.active 
 {
-    color:blue;
-}
-
-#mods-controllers .mods-controllers-main-wrapper .mod-controllers-headers a {
-    display: inline-block;
-    padding: 0 16px;
-    padding: 0 1rem;
-    text-transform: uppercase;
-    font-weight: 700;
-    color: blue;
-}
-
-div{
-    color:grey;   
+    color: #0d0dd3;
 }
 
 #browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li.selected{
     color:white;
-    background:blue;
+    background:#0d0dd3;
 }
 
-#room-info-display .room-info-display-wrapper .description a.autolink, #room-info-display .room-info-display-wrapper .description span.username-handle {
-    color: blue;
-}
 
-a:active, a:focus, a:hover,
-#mods-controllers .mods-controllers-main-wrapper .mod-controllers-headers a.active {
+
+#chat .chat-container .chat-messages .chat-main li .activity-row .text p,
+#chat .pusher-chat-widget-input #chat-height-calculator, #chat .pusher-chat-widget-input #chat-txt-message 
+ {
     color: black;
 }
 
@@ -105,22 +79,6 @@ a:active, a:focus, a:hover,
     background:white;
 }
 
-#chat .chat-container .chat-messages .chat-main li.currentDJ .username:before {
-    color: blue;
-}
-
-#chat .chat-container .chat-messages .chat-main li .activity-row .text p {
-    color: black;
-}
-
-#chat .pusher-chat-widget-input #chat-height-calculator, #chat .pusher-chat-widget-input #chat-txt-message {
-    color: black;
-}
-
-a{
-    color:blue
-}
-
- #mods-controllers .mods-controllers-main-wrapper .mods-controllers-wrapper .mods-controllers-commands-list .chat-command-list li .actions{
-    color:grey;
+#main_avatar_room #main-user-list-room #avatar-list li.currentDJ .dubs:before{
+       color:darkorange
 }
