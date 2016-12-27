@@ -23,11 +23,20 @@
     color: black;
 }
 
-#player-controller .right ul li .add-to-playlist-button.grabbed, 
-#player-controller .right ul li .add-to-playlist-button.voted, 
+#player-controller .right ul li .dubup.voted,
+#player-controller .right ul li .dubup.grabbed{
+    background:lightgreen;
+}
+
 #player-controller .right ul li .dubdown.grabbed, 
 #player-controller .right ul li .dubdown.voted {
     background: red;
+}
+
+#player-controller .right ul li .add-to-playlist-button.grabbed, 
+#player-controller .right ul li .add-to-playlist-button.voted
+{
+    background:#b13cb9;
 }
 
 #player-controller .right {
