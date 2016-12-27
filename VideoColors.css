@@ -13,8 +13,12 @@
 #main_player .play-song-link-container .play-song-link i,
 #main_player .play-song-link-container .play-song-link, 
 #main_player .play-song-link-container .play-song-link-browser,
-#main_player .player_header span,
-#main_player .player_header span.active
+#main_player .player_header span
  {
     color: darkblue; 
+}
+
+#main_player .player_header span.active{
+    color:white;
+    background:darkblue;
 }
