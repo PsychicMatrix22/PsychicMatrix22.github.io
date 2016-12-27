@@ -1,34 +1,20 @@
+#main_player,
+#main_player .player_header span,
+#main_player .play-song-link-container .play-song-link, 
+#main_player .play-song-link-container .play-song-link-browser,
 #main_player .player_header span.active {
-    background: blue;
-    color: white;
-}
-
-#main_player .player_header span {
-    color: blue;
     background: white;
 }
 
-#main_player .play-song-link-container .play-song-link, #main_player .play-song-link-container .play-song-link-browser {
-    background: white;
-    color: blue;
-}
-
-#main_player .play-song-link-container .play-song-link-browser i, #main_player .play-song-link-container .play-song-link i {
-    color: blue;
-}
-
-#main_player .player_sharing span {
-    color: blue;
-}
-
-#main_player {
-    background: white;
-}
-
-#main_player .placeholder h5 {
-    color: blue; 
-}
-
-#main_player .placeholder h5 .icon-play {
-    color: blue;
+#main_player .placeholder h5,
+#main_player .placeholder h5 .icon-play,
+#main_player .player_sharing span,
+#main_player .play-song-link-container .play-song-link-browser i, 
+#main_player .play-song-link-container .play-song-link i,
+#main_player .play-song-link-container .play-song-link, 
+#main_player .play-song-link-container .play-song-link-browser,
+#main_player .player_header span,
+#main_player .player_header span.active
+ {
+    color: darkblue; 
 }
