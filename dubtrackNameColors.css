@@ -1,4 +1,31 @@
-#chat .chat-container .chat-messages .chat-main li .activity-row .username {
+#chat .chat-container .chat-messages .chat-main li .activity-row .username,
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.admin .user-role,
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.admin .user-role-icon,
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.admin .username, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.co-owner .user-role, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.co-owner .user-role-icon, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.co-owner .username, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.creator .user-role, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.creator .user-role-icon, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.creator .username, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.dj .user-role, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.dj .user-role-icon, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.dj .username, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.manager .user-role, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.manager .user-role-icon, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.manager .username, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.mod .user-role, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.mod .user-role-icon, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.mod .username, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.resident-dj .user-role, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.resident-dj .user-role-icon, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.resident-dj .username, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.verified .user-role, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.verified .user-role-icon, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.verified .username, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.vip .user-role, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.vip .user-role-icon, 
+#main_avatar_room .role-colors-disabled #main-user-list-room #avatar-list li.vip .username {
     color: black;
 }
 
