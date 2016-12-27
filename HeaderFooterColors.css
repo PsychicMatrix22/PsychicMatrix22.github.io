@@ -1,14 +1,15 @@
 #player-controller .left ul li.infoContainer .infoContainerInner,
 #header-global {
-   background: linear-gradient(to right, rgba(0,0,0,.5), rgba(0,0,0,.75), rgba(18, 127, 174,.9),  rgba(0,0,0,.75), rgba(0,0,0,.5));
+    background: linear-gradient(to right, rgba(0,0,0,.5), rgba(0,0,0,.75), rgba(18, 127, 174,.9),  rgba(0,0,0,.75), rgba(0,0,0,.5));
 }
-
 .icon-menu:before, 
 .icon-chevron:before,
 #header-global .header-right-navigation .user-info,
 #header-global .header-right-navigation .user-messages,
-#player-controller .left ul li.infoContainer .infoContainerInner span,
-#header-global {
+#header-global,
+#player-controller .left ul li.infoContainer .infoContainerInner .currentTime,
+#header-global .header-left-navigation a
+ {
     color: white;
 }
 
@@ -30,8 +31,4 @@
 
 #player-controller .right {
     background: white;
-}
-
-#header-global .header-left-navigation a {
-    color: white;
 }
