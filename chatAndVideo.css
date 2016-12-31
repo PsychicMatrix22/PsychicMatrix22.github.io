@@ -1,7 +1,7 @@
 section#main-section section#main-room.dubtrack-section {
     margin-left:30px;
     margin-top:0;
-    max-width:80%;
+    /*max-width:80%;*/
 }
 
 video.video-stream{
