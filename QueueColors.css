@@ -21,7 +21,7 @@
 #browser .browser-content .browser-content-main .nano .content-videos .playlist_info .right a, 
 #browser .browser-content .browser-content-main .nano .content-videos .queue_info .right a{
     background:none;
-    color:lightgreen;
+    color:rgb(18, 127, 174);
 }
 
 .icon-heart:before{
@@ -33,12 +33,12 @@
 #browser .browser-content .browser-content-main .nano .content-videos #results_video_api .queue-item .description, 
 #browser .browser-content .browser-content-main .nano .content-videos #results_video_api .search-item .description
 {
-  color:lightgreen
+  color:rgb(18, 127, 174)
 }
 
 #browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li.selected,
 #browser .browser-content .browser-content-header .close-browser
 {
     color:white;
-    background:lightgreen;
+    background:rgb(18, 127, 174);
 }
