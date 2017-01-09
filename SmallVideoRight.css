@@ -1,11 +1,12 @@
 @media screen and (min-width: 72em) {
     #main-room .left_section {right:0rem; max-width: 91.9rem;}
-    #main-room .left_section #main_player {border-radius: 0 0rem 0 1rem; margin-right: 0;}
+    #main-room .left_section #main_player {border: solid 2px rgb(18, 127, 174);border-radius: 0 0rem 0 1rem;margin-right: 0;}
     #main_player .player_header { right: initial; left: -73px; height: 260px; }
     #main_player .player_header span {
         float: right;
         padding-left: .75rem;
         padding-right: 0rem;
+        border: solid 2px;
         border-radius: 1rem 0rem 0rem 1rem;
     }
     #main_player .player_header span.edit-room { float: right; padding: 1px 4px 0 0; }
