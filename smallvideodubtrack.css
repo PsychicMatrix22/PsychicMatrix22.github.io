@@ -22,14 +22,14 @@
 }
 
 #chat .chat-main li[class*='system'] {
-    color: darkblue !important;
+    color: rgb(18, 127, 174) !important;
     text-align: center;
-    border-top: darkblue 1px solid !important;
-    border-bottom: darkblue 1px solid !important;
+    border-top: rgb(18, 127, 174) 1px solid !important;
+    border-bottom: rgb(18, 127, 174) 1px solid !important;
 }
 
 a{
-    color:blue
+    color:rgb(18, 127, 174);
 }
 
 a:active, a:focus, a:hover,
