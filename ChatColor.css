@@ -14,12 +14,12 @@
 #chat .chat_tools span.icon-people i.room-guest-counter,
 #chat .chat_tools span.icon-people i
 {
-    color: #0d0dd3;
+    color: rgb(18, 127, 174);
 }
 
 #main_avatar_room .avatar_tools input,
  {
-    border-bottom: 1px solid #0d0dd3;
+    border-bottom: 1px solid rgb(18, 127, 174);
 }
 
 #chat .chat_tools {
@@ -34,7 +34,7 @@
 #chat .chat-options .chat-option-buttons span:hover,
 #chat .chat-options .chat-option-buttons span.active  
 {
-    border: 1px solid #0d0dd3;
+    border: 1px solid rgb(18, 127, 174);
 }
 
 .icon-chat:before, 
@@ -58,7 +58,7 @@
 #chat .chat-options .chat-option-buttons span:hover,
 #chat .chat-options .chat-option-buttons span.active 
 {
-    color: #0d0dd3;
+    color: rgb(18, 127, 174);
 }
 
 #chat .chat-container .chat-messages .chat-main li .activity-row .text p,
