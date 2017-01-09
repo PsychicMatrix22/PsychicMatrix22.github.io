@@ -1,6 +1,6 @@
 #player-controller .left ul li.infoContainer .infoContainerInner,
 #header-global {
-    background: linear-gradient(to right, rgb(0,0,0), rgb(0,0,0), rgb(18, 127, 174),  rgb(0,0,0), rgb(0,0,0));
+    background: linear-gradient(to right, rgb(0,0,0), rgb(0,0,0), rgba(18, 127, 174, .5),  rgb(0,0,0), rgb(0,0,0));
 }
 .icon-menu:before, 
 .icon-chevron:before,
