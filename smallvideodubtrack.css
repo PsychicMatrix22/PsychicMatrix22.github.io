@@ -1,0 +1,44 @@
+@import url("https://hebgbs.github.io/rainbowstuff.css");
+@import url("https://PsychicMatrix22.github.io/VideoColors.css");
+@import url("https://PsychicMatrix22.github.io/dubtrackNameColors.css");
+@import url("https://PsychicMatrix22.github.io/chatAndVideo.css");
+@import url("https://PsychicMatrix22.github.io/ChatColor.css");
+@import url("https://PsychicMatrix22.github.io/HeaderFooterColors.css");
+@import url("https://PsychicMatrix22.github.io/QueueColors.css");
+@import url("https://frosolf.github.io/leftvideosmall.css");
+@import url("https://frosolf.github.io/leftvideo.css");
+
+/* Emote sizes */
+#chat .emoji {
+    max-width: none !important;
+    max-height: 28px !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+/* me command fix */
+#chat .chat-container .chat-messages .chat-main li.system-error {
+    text-transform: uppercase;
+}
+
+#chat .chat-main li[class*='system'] {
+    color: darkblue !important;
+    text-align: center;
+    border-top: darkblue 1px solid !important;
+    border-bottom: darkblue 1px solid !important;
+}
+
+a{
+    color:blue
+}
+
+a:active, a:focus, a:hover,
+#mods-controllers .mods-controllers-main-wrapper .mod-controllers-headers a.active
+{
+    color: black;
+}
+
+div,
+ #mods-controllers .mods-controllers-main-wrapper .mods-controllers-wrapper .mods-controllers-commands-list .chat-command-list li .actions{
+    color:grey;
+}
