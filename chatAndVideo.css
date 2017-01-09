@@ -13,6 +13,7 @@ section#main-section section#main-room.dubtrack-section {
 
     #main-room .right_section{
         width:450px!important;
+        border: solid 2px rgb(18, 127, 174);
         border-radius:0;
         float:right!important;
         height:100%;
