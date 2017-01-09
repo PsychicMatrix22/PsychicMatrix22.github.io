@@ -22,3 +22,7 @@
     color:white;
     background:darkblue;
 }
+
+#room-info-display .room-info-display-wrapper .header span i {
+    color: orange;
+}
