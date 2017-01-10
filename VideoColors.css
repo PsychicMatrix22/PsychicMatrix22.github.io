@@ -20,6 +20,7 @@
 
 #main_player .player_header span.active{
     color:white;
+    border-color: rgb(18, 127, 174);
     background: rgb(18, 127, 174);
 }
 
