@@ -12,7 +12,8 @@
 
 
 #chat .chat_tools span.icon-people i.room-guest-counter,
-#chat .chat_tools span.icon-people i
+#chat .chat_tools span.icon-people i,
+#chat .pusher-chat-widget-input .chat-text-box-icons
 {
     color: rgb(18, 127, 174);
 }
@@ -56,15 +57,13 @@
 #room-info-display .room-info-display-wrapper .description span.username-handle,
 #chat .chat-container .chat-messages .chat-main li.currentDJ .username:before,
 #chat .chat-options .chat-option-buttons span:hover,
-#chat .chat-options .chat-option-buttons span.active 
+#chat .chat-container .chat-messages .chat-main li .activity-row .text p,
+#chat .chat-options .chat-option-buttons span.active,
+#chat .pusher-chat-widget-input #chat-height-calculator,
+#chat .pusher-chat-widget-input #chat-txt-message,
+::-webkit-input-placeholder 
 {
     color: rgb(18, 127, 174);
-}
-
-#chat .chat-container .chat-messages .chat-main li .activity-row .text p,
-#chat .pusher-chat-widget-input #chat-height-calculator, #chat .pusher-chat-widget-input #chat-txt-message 
- {
-    color: black;
 }
 
 #main_avatar_room #main-user-list-room #avatar-list li.currentDJ .dubs:before{
@@ -74,4 +73,14 @@
 
 .icon-heart:before{
   color:none;
+}
+
+#main_avatar_room .avatar_tools .filter-toggle:hover {
+    color: black;
+    border-color: black;
+}
+
+#main_avatar_room .avatar_tools .filter-toggle {
+     color: rgb(18, 127, 174); 
+    border: 1px solid rgb(18, 127, 174); 
 }
