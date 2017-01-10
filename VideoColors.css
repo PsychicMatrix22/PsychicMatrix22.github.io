@@ -18,7 +18,8 @@
     color: rgb(18, 127, 174); 
 }
 
-#main_player .player_header span.active{
+#main_player .player_header span.active,
+#main_player .player_header span:hover{
     color:white;
     border-color: rgb(18, 127, 174);
     background: rgb(18, 127, 174);
@@ -27,3 +28,4 @@
 #room-info-display .room-info-display-wrapper .header span i {
     color: orange;
 }
+
