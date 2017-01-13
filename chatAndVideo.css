@@ -51,3 +51,10 @@ section.left_section{
     width: 80%;
 }
 
+#chat .pusher-chat-widget-input .nc-container .tip-container {
+    height: 40px;
+}
+
+#chat .pusher-chat-widget-input .nc-container .tip-container span {
+   display:inline;
+}
