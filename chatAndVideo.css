@@ -58,3 +58,8 @@ section.left_section{
 #chat .pusher-chat-widget-input .nc-container .tip-container span {
    display:inline;
 }
+
+
+div#taboola-browser-container{
+    display:none;
+}
